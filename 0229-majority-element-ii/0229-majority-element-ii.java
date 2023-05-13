@@ -3,11 +3,13 @@ class Solution {
         Map<Integer,Integer> m = new HashMap<>();
         List<Integer> l = new ArrayList<>();
         int n = nums.length;
-        int min = n/3;
         for(int i=0;i<n;i++){
             m.put(nums[i],m.getOrDefault(nums[i],0)+1);
-            if(m.getOrDefault(nums[i],0) > min && !l.contains(nums[i])){
-                l.add(nums[i]);
+        }
+        int min = n/3;
+        for(Map.Entry<Integer,Integer> e : m.entrySet()){
+            if(e.getValue() > min){
+                l.add(e.getKey());
             }
         }
 
