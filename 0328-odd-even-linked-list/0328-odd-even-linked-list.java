@@ -24,7 +24,7 @@ class Solution {
                 oddPoint = temp;
                 }else{
                 oddPoint.next = temp;
-                oddPoint = oddPoint.next;
+                oddPoint = temp;
                 }
             }else{
                 if(evenHead == null){
@@ -32,7 +32,7 @@ class Solution {
                 evenPoint = temp;
                 }else{
                 evenPoint.next = temp;
-                evenPoint = evenPoint.next;
+                evenPoint = temp;
                 }
             }
             temp = temp.next;
