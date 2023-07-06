@@ -24,11 +24,12 @@ class Solution {
                         temp.add(nums[k]);
                         temp.add(nums[l]);
                         ans.add(temp);
+
+                        while (k < l && nums[k] == nums[k + 1]) k++;
+                        while (k < l && nums[l] == nums[l - 1]) l--;
+                    
                         k++;
                         l--;
-
-                        while (k < l && nums[k] == nums[k - 1]) k++;
-                        while (k < l && nums[l] == nums[l + 1]) l--;
                     } else if (sum < target) k++;
                     else l--;
                 }
