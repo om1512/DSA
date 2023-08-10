@@ -15,12 +15,17 @@
  */
 class Solution {
 
+
+    /**
+    Approch Find Height and if any sub tree height's diffrence is more than 1    than always return -1
+     */
     static int hight(TreeNode root){
         if(root == null) return 0;
         int leftHeight = 0,rightHeight = 0;
         if(root.left != null) leftHeight = hight(root.left); 
+        if(leftHeight == -1) return -1;
         if(root.right != null) rightHeight = hight(root.right);
-        if(leftHeight == -1 || rightHeight == -1) return -1;
+        if(rightHeight == -1) return -1;
         if(Math.abs(leftHeight - rightHeight) > 1) return -1;
         return Integer.max(leftHeight,rightHeight)+1;
     }
