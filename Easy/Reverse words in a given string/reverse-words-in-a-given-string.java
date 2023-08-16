@@ -25,13 +25,12 @@ class Solution
     //Function to reverse words in a given string.
     String reverseWords(String s)
     {
-        // code here 
-        String[] test = s.trim().split("\\.");
-        StringBuffer ans = new StringBuffer();
-        for(int i=test.length-1;i>=0;i--){
-                ans.append(test[i].trim());
-                if(i!=0) ans.append(".");
+        // code here
+        String ans = "";
+        String[] strArray = s.split("[.]");
+        for(int i=strArray.length-1;i>=1;i--){
+            ans += (strArray[i]) + ".";
         }
-        return ans.toString().trim();
+        return ans + strArray[0];
     }
 }
