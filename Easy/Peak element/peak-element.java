@@ -51,32 +51,19 @@ class Solution
 	// n: size of array a[]
 	public int peakElement(int[] arr,int n)
     {
-       int peekNum = Integer.MIN_VALUE,index=0;
-       
-       if(n>1){
-           if(arr[0]>arr[1]){
-               if(peekNum <= arr[0]){
-                   peekNum = arr[0];
-                   index = 0;
+       //add code here.
+       if(n == 1) return 0;
+       for(int i=0;i<n;i++){
+           if(i == 0 && arr[0] >= arr[1]){
+               return i;
+           }else if(i == n-1 && arr[n-1] >= arr[n-2]){
+               return n-1;
+           }else{
+               if((i-1 >=0 && arr[i] >= arr[i-1]) && (i+1 <=n-1 && arr[i] >= arr[i+1])){
+                   return i;
                }
            }
-           if(arr[n-2]<=arr[n-1]){
-               if(peekNum < arr[n-1]){
-                   peekNum = arr[n-1];
-                   index = n-1;
-               }
-           }
-       }else{
-           return 0;
        }
-        for(int i=1;i<n-1;i++){
-               if(arr[i]>=arr[i-1] && arr[i]>=arr[i+1]){
-                   if(peekNum < arr[i]){
-                       peekNum = arr[i];
-                       index = i;
-                   }
-               }
-        }
-       return index;
+       return -1;
     }
 }
