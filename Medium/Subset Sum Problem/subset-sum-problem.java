@@ -35,25 +35,32 @@ class GFG
 
 class Solution{
 
+    // recursive approch
+    // static Boolean isSubsetSum(int N, int arr[], int sum){
+    //     if(sum == 0) return true;
+    //     if(N == 0) return false;
+    //     return (isSubsetSum(N-1, arr, sum - arr[N-1]) || isSubsetSum(N-1, arr, sum));
+    // }
+    
+    // recursion + memoization = top down approch
+    static Boolean solve(int N, int arr[], int sum, Boolean[][] dp){
+        
+        if(sum == 0)return true;
+        if(N <= 0 || sum < 0) return false;
+
+        if(dp[N][sum] != null) return dp[N][sum];
+        if(sum >= arr[N-1])
+            return dp[N][sum] = (solve(N-1, arr, sum - arr[N-1], dp) || solve(N-1, arr, sum, dp));
+        return dp[N][sum] = solve(N-1, arr, sum, dp);
+    }
 
     static Boolean isSubsetSum(int N, int arr[], int sum){
-        // code here
-        boolean[][] t = new boolean[N+1][sum+1];
-        for(int j=0;j<sum+1;j++){
-            t[0][j] = false;
-        }
-        for(int i=0;i<N+1;i++){
-            t[i][0] = true;
-        }
-        for(int i=1;i<N+1;i++){
-            for(int j=1;j<sum+1;j++){
-                if(arr[i-1] <= j){
-                    t[i][j] = (t[i-1][j-arr[i-1]] || t[i-1][j]);   
-                }else{
-                    t[i][j] = t[i-1][j];
-                }
+        Boolean dp[][] = new Boolean[N+1][sum+1];
+        for(int i = 0; i < N+1 ; i++){
+            for(int j = 0; j < sum+1 ; j++){
+                dp[i][j] = null;
             }
         }
-        return t[N][sum];
+        return solve(N, arr, sum, dp);
     }
 }
