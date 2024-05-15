@@ -48,25 +48,23 @@ class gfg
 
 class Solution 
 { 
-    static int ks(int W, int wt[], int val[], int n,int[][] t) 
-    { 
-         // your code here 
-         if(n <= 0 || W <= 0){
-             return 0;
-         }
-         if(t[n][W] != 0){
-             return t[n][W];
-         }
-         if(wt[n-1] <= W){
-            return t[n][W] = Math.max(val[n-1] + ks(W - wt[n-1],wt,val,n-1,t) , ks(W,wt,val,n-1,t));
-         }
-         return t[n][W] = ks(W,wt,val,n-1,t);
+    //Function to return max value that can be put in knapsack of capacity W.
+    static int[][] t = new int[1001][1001];
+    Solution(){
+        for(int i=0;i<1001;i++){
+            for(int j=0;j<1001;j++){
+                t[i][j] = -1;
+            }
+        }
     }
     static int knapSack(int W, int wt[], int val[], int n) 
     { 
-         // your code here
-         int[][] t = new int[n+1][W+1];
-         return ks(W,wt,val,n,t);
+         // your code here 
+        if(n==0 || W==0) return 0;
+        if(t[n][W]!=-1) return t[n][W];
+        if(wt[n-1]<=W)
+            return t[n][W]=Math.max(val[n-1]+knapSack(W-wt[n-1],wt,val,n-1),knapSack(W,wt,val,n-1));
+        return t[n][W]=knapSack(W,wt,val,n-1);
     } 
 }
 
