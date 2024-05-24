@@ -82,7 +82,6 @@ class Solution {
         return dp[n][sum];
     } 
     public static int countPartitions(int n, int d, int[] arr) {
-        // code here
         int sum = 0;
         for (int i : arr) {
             sum += i;
