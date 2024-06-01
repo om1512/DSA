@@ -39,26 +39,21 @@ class Solution{
     // Function to find floor of x
     // arr: input array
     // n is the size of array
-    static int findFloor(long nums[], int n, long target)
+    static int findFloor(long arr[], int n, long x)
     {
-        long max = Integer.MIN_VALUE;
-        int index = -1;
-        int left = 0;
-        int right = n - 1;
-        int mid = (left + right) / 2;
-        while (left <= right) {
-          if (nums[mid] == target) {
-            return mid;
-          } else if (nums[mid] < target) {
-            left = mid + 1;
-            max = Math.max(max, nums[mid]);
-            index = mid;
-          } else {
-            right = mid - 1;
-          }
-          mid = (left + right) / 2;
+        int l = 0, r = n - 1;
+        int max = -1;
+        while(l <= r){
+            int mid = (l+r)/2;
+            if(arr[mid] == x) return mid;
+            else if(arr[mid] < x){
+                l = mid+1;
+                max = mid;
+            }else{
+                r = mid -1;
+            }
         }
-        return index;
+        return max;
     }
     
 }
