@@ -10,3 +10,11 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/om1512/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/om1512/DSA/tree/master/0344-reverse-string) |
+# String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/om1512/DSA/tree/master/0344-reverse-string) |
