@@ -4,14 +4,15 @@ class Solution {
         for(char ch: s.toCharArray()){
             map.put(ch, map.getOrDefault(ch,0) + 1);
         }
-        int[] count = {0, 0};
-        map.forEach((k,v) -> {
-            if(v % 2 == 0) count[0]+=v;
+        int count = 0;
+        boolean flag = false;
+        for(Map.Entry<Character, Integer> m : map.entrySet()){
+            if(m.getValue() % 2 == 0) count+=m.getValue();
             else{
-                count[0] += v-1;
-                count[1] = 1;
+                count += m.getValue()-1;
+                flag = true;
             }
-        });
-        return count[0] + count[1];
+        }
+        return count + ((flag) ? 1 : 0);
     }
 }
