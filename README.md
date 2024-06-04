@@ -20,12 +20,18 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/om1512/DSA/tree/master/0344-reverse-string) |
+| [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/om1512/DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/om1512/DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Linked List
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/om1512/DSA/tree/master/0908-middle-of-the-linked-list) |
+# Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
