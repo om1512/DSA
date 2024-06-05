@@ -8,6 +8,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/om1512/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/om1512/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/om1512/DSA/tree/master/0055-jump-game) |
+| [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
 # Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode and GFG questions solutions.
 | ------- |
 | [0344-reverse-string](https://github.com/om1512/DSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/om1512/DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -39,6 +41,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
 # Dynamic Programming
 |  |
 | ------- |
