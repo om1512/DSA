@@ -9,6 +9,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0045-jump-game-ii](https://github.com/om1512/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/om1512/DSA/tree/master/0055-jump-game) |
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
+| [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
 # Binary Search
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0045-jump-game-ii](https://github.com/om1512/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/om1512/DSA/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/om1512/DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Linked List
 |  |
@@ -44,6 +46,7 @@ Collection of LeetCode and GFG questions solutions.
 | ------- |
 | [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
+| [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
 # Dynamic Programming
 |  |
@@ -54,3 +57,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
