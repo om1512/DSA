@@ -9,6 +9,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0045-jump-game-ii](https://github.com/om1512/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/om1512/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/om1512/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0120-triangle](https://github.com/om1512/DSA/tree/master/0120-triangle) |
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
@@ -56,6 +57,7 @@ Collection of LeetCode and GFG questions solutions.
 | ------- |
 | [0045-jump-game-ii](https://github.com/om1512/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/om1512/DSA/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/om1512/DSA/tree/master/0120-triangle) |
 # Trie
 |  |
 | ------- |
