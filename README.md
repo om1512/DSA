@@ -11,6 +11,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/om1512/DSA/tree/master/1137-height-checker) |
 # Binary Search
 |  |
 | ------- |
@@ -61,3 +62,8 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/om1512/DSA/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/om1512/DSA/tree/master/1137-height-checker) |
