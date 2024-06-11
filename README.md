@@ -10,6 +10,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0055-jump-game](https://github.com/om1512/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/om1512/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/om1512/DSA/tree/master/0120-triangle) |
+| [0274-h-index](https://github.com/om1512/DSA/tree/master/0274-h-index) |
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
@@ -67,12 +68,14 @@ Collection of LeetCode and GFG questions solutions.
 # Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/om1512/DSA/tree/master/0274-h-index) |
 | [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/om1512/DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/om1512/DSA/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/om1512/DSA/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/om1512/DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/om1512/DSA/tree/master/1217-relative-sort-array) |
 # Matrix
