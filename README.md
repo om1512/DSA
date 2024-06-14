@@ -33,6 +33,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/om1512/DSA/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/om1512/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/om1512/DSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
@@ -56,6 +57,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/om1512/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0290-word-pattern](https://github.com/om1512/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/om1512/DSA/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
