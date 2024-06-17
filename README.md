@@ -23,12 +23,14 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/om1512/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/om1512/DSA/tree/master/0633-sum-of-square-numbers) |
 # Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/om1512/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/om1512/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/om1512/DSA/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/om1512/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/om1512/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/om1512/DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -103,3 +105,4 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/om1512/DSA/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/om1512/DSA/tree/master/0633-sum-of-square-numbers) |
