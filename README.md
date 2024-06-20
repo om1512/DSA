@@ -11,6 +11,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0055-jump-game](https://github.com/om1512/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/om1512/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/om1512/DSA/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/om1512/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0274-h-index](https://github.com/om1512/DSA/tree/master/0274-h-index) |
 | [0648-replace-words](https://github.com/om1512/DSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
@@ -105,9 +106,11 @@ Collection of LeetCode and GFG questions solutions.
 # Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/om1512/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/om1512/DSA/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/om1512/DSA/tree/master/0633-sum-of-square-numbers) |
 # Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/om1512/DSA/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/om1512/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
