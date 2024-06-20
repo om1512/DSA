@@ -37,6 +37,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/om1512/DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/om1512/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/om1512/DSA/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/om1512/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/om1512/DSA/tree/master/0344-reverse-string) |
@@ -106,3 +107,7 @@ Collection of LeetCode and GFG questions solutions.
 | ------- |
 | [0202-happy-number](https://github.com/om1512/DSA/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/om1512/DSA/tree/master/0633-sum-of-square-numbers) |
+# Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/om1512/DSA/tree/master/0071-simplify-path) |
