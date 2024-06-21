@@ -28,6 +28,7 @@ Collection of LeetCode and GFG questions solutions.
 # Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/om1512/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/om1512/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/om1512/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/om1512/DSA/tree/master/0344-reverse-string) |
@@ -59,6 +60,7 @@ Collection of LeetCode and GFG questions solutions.
 # Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/om1512/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/om1512/DSA/tree/master/0908-middle-of-the-linked-list) |
 # Hash Table
 |  |
