@@ -19,6 +19,7 @@ Collection of LeetCode and GFG questions solutions.
 | [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/om1512/DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/om1512/DSA/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/om1512/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/om1512/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -75,6 +76,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0876-hand-of-straights](https://github.com/om1512/DSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/om1512/DSA/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/om1512/DSA/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/om1512/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -113,8 +115,13 @@ Collection of LeetCode and GFG questions solutions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/om1512/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/om1512/DSA/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/om1512/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/om1512/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/om1512/DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/om1512/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/om1512/DSA/tree/master/1370-count-number-of-nice-subarrays) |
