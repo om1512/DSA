@@ -6,6 +6,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/om1512/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/om1512/DSA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/om1512/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/om1512/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/om1512/DSA/tree/master/0055-jump-game) |
@@ -25,6 +26,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/om1512/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/om1512/DSA/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/om1512/DSA/tree/master/0633-sum-of-square-numbers) |
 # Two Pointers
 |  |
