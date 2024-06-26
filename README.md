@@ -113,6 +113,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/om1512/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/om1512/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/om1512/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/om1512/DSA/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/om1512/DSA/tree/master/0633-sum-of-square-numbers) |
