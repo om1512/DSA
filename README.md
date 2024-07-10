@@ -135,4 +135,13 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/om1512/DSA/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
