@@ -146,6 +146,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
+| [1903-largest-odd-number-in-string](https://github.com/om1512/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/om1512/DSA/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/om1512/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -186,4 +188,8 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/om1512/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
