@@ -134,6 +134,7 @@ Collection of LeetCode and GFG questions solutions.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/om1512/DSA/tree/master/0031-next-permutation) |
 | [1293-three-consecutive-odds](https://github.com/om1512/DSA/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
 ## String
@@ -144,4 +145,8 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/om1512/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
