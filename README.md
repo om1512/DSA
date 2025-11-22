@@ -135,6 +135,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/om1512/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/om1512/DSA/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1293-three-consecutive-odds](https://github.com/om1512/DSA/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
@@ -158,4 +159,12 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/om1512/DSA/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/om1512/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
