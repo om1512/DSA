@@ -135,6 +135,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/om1512/DSA/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1293-three-consecutive-odds](https://github.com/om1512/DSA/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
 ## String
@@ -149,4 +150,12 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/om1512/DSA/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
