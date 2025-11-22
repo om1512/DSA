@@ -148,11 +148,13 @@ Collection of LeetCode and GFG questions solutions.
 | [0242-valid-anagram](https://github.com/om1512/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/om1512/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/om1512/DSA/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/om1512/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
 | [1903-largest-odd-number-in-string](https://github.com/om1512/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/om1512/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
