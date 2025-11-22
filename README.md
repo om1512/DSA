@@ -145,6 +145,7 @@ Collection of LeetCode and GFG questions solutions.
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/om1512/DSA/tree/master/0796-rotate-string) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
 | [1903-largest-odd-number-in-string](https://github.com/om1512/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -192,4 +193,8 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/om1512/DSA/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/om1512/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
