@@ -138,6 +138,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0048-rotate-image](https://github.com/om1512/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/om1512/DSA/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
 | [1293-three-consecutive-odds](https://github.com/om1512/DSA/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
 ## String
@@ -156,6 +157,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -173,4 +175,12 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/om1512/DSA/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
