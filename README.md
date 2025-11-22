@@ -146,6 +146,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/om1512/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/om1512/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/om1512/DSA/tree/master/0796-rotate-string) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
 | [1903-largest-odd-number-in-string](https://github.com/om1512/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -164,6 +165,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/om1512/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/om1512/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Union Find
 |  |
 | ------- |
@@ -188,10 +190,12 @@ Collection of LeetCode and GFG questions solutions.
 | [0088-merge-sorted-array](https://github.com/om1512/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/om1512/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/om1512/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/om1512/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -200,4 +204,12 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/om1512/DSA/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/om1512/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/om1512/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
