@@ -6,22 +6,39 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map.Entry;
 
+class CharFrequency implements Comparable<CharFrequency>{
+    char key;
+    int value;
+    CharFrequency(char key, int value){
+        this.key = key;
+        this.value = value;
+    }
+
+    @Override
+    public int compareTo(CharFrequency c){
+        return c.value - this.value;
+    }
+}
+
 class Solution {
     public String frequencySort(String s) {
-        HashMap<Character,Integer> h = new HashMap<>();
-        StringBuffer ans = new StringBuffer();
-        char[] c = s.toCharArray();
-        for(char i:c){
-        h.put(i,h.getOrDefault(i, 0)+1);
+        Map<Character, Integer> map = new HashMap<>();
+        for(char c : s.toCharArray()){
+            map.put(c, map.getOrDefault(c, 0) + 1);
         }
-        PriorityQueue<Character> q = new PriorityQueue<>((a,b) -> h.get(b)-h.get(a));
-        q.addAll(h.keySet());
-        while(!q.isEmpty()){
-        char ch = q.remove();
-            for(int i=0;i<h.get(ch);i++){
-                ans.append(ch);
+        List<CharFrequency> list = new ArrayList<>();
+        for(char c : map.keySet()){
+            list.add(new CharFrequency(c, map.get(c)));
+        }
+        Collections.sort(list);
+        String result = "";
+        for(CharFrequency cf : list){
+            int f = cf.value;
+            while(f-- > 0){
+                result += cf.key;
             }
         }
-        return ans.toString();
+
+        return result;
     }
 }
