@@ -137,6 +137,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0031-next-permutation](https://github.com/om1512/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/om1512/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/om1512/DSA/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/om1512/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
 | [1293-three-consecutive-odds](https://github.com/om1512/DSA/tree/master/1293-three-consecutive-odds) |
@@ -153,6 +154,7 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/om1512/DSA/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/om1512/DSA/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Collection of LeetCode and GFG questions solutions.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/om1512/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
