@@ -139,6 +139,7 @@ Collection of LeetCode and GFG questions solutions.
 | [0054-spiral-matrix](https://github.com/om1512/DSA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/om1512/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/om1512/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/om1512/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/om1512/DSA/tree/master/0229-majority-element-ii) |
 | [1293-three-consecutive-odds](https://github.com/om1512/DSA/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/om1512/DSA/tree/master/1720-crawler-log-folder) |
@@ -214,4 +215,8 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/om1512/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/om1512/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
