@@ -227,4 +227,5 @@ Collection of LeetCode and GFG questions solutions.
 | [0619-biggest-single-number](https://github.com/om1512/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/om1512/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/om1512/DSA/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/om1512/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
