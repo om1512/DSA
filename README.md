@@ -219,4 +219,8 @@ Collection of LeetCode and GFG questions solutions.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/om1512/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/om1512/DSA/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
