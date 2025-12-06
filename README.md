@@ -225,4 +225,5 @@ Collection of LeetCode and GFG questions solutions.
 | [0607-sales-person](https://github.com/om1512/DSA/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/om1512/DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/om1512/DSA/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/om1512/DSA/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
