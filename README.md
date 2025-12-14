@@ -233,4 +233,5 @@ Collection of LeetCode and GFG questions solutions.
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/om1512/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/om1512/DSA/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/om1512/DSA/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/om1512/DSA/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
